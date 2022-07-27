@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<p align="center">
+
 <a href="https://codepen.io/sunilkumarchoudari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="astha369" height="30" width="40" /></a>
 
 <a href="https://twitter.com/sunilkumarsuneo" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darknight_027" height="30" width="40" /></a>
@@ -13,11 +13,11 @@
 <a href="https://medium.com/sunilkumarchoudari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="darknight27" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sunilkumarchoudari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tripathiastha369" height="30" width="40" /></a>
 
-</p>
+
 
 </div>
 <br>
-<h1 align="center"># 💻 Tech Stack:<h1>
+<h1 align="center">💻 Tech Stack:<h1>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
