@@ -1,8 +1,8 @@
 <h1 align="center">Hallo 👋, ich bin Sunil Kumar</h1>
 <h3 align="center">Freelancer, Cyber Security Enthusiast, Cyber Security Researcher, Front end-Developer & Technical Analyst, Content Writer</h3>
 
-<h3 align="left">Connect with me:</h3>
-
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 <p align="left">
 <a href="https://codepen.io/sunilkumarchoudari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="astha369" height="30" width="40" /></a>
 
@@ -15,6 +15,8 @@
 <a href="https://www.hackerrank.com/sunilkumarchoudari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tripathiastha369" height="30" width="40" /></a>
 
 </p>
+
+</div>
 
 <h1 align="center"># 💻 Tech Stack:<h1>
 
