@@ -1,7 +1,8 @@
 <h1 align="center">Hallo 👋, ich bin Sunil Kumar</h1>
 <h3 align="center">Freelancer, Cyber Security Enthusiast, Cyber Security Researcher, Front end-Developer & Technical Analyst, Content Writer</h3>
-
-<h3 style="color:#24f9db;" align="center">Connect with me:</h3>
+<br>
+<br>
+<h3 align="center">Connect with me:</h3>
 <div align="center" dir="center">
 
 <a href="https://codepen.io/sunilkumarchoudari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="astha369" height="30" width="40" /></a>
