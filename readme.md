@@ -5,17 +5,17 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center" dir="center">
 
-<a href="http://infoskc.tech" target="blank"> <img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="sunilkumarchoudari" height="30" width="40" /></a>
+<a href="http://infoskc.tech" target="_blank"> <img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="sunilkumarchoudari" height="30" width="40" /></a>
 
-<a href="https://codepen.io/sunilkumarchoudari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
+<a href="https://codepen.io/sunilkumarchoudari" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sunilkumarchoudari" height="30" width="50" /></a>
 
-<a href="https://twitter.com/sunilkumarsuneo" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunilkumarsuneo" height="30" width="40" /></a>
+<a href="https://twitter.com/sunilkumarsuneo" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunilkumarsuneo" height="30" width="40" /></a>
 
-<a href="https://linkedin.com/in/sunilkumarchoudari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sunilkumarchoudari" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
 
-<a href="https://medium.com/sunilkumarchoudari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
+<a href="https://medium.com/sunilkumarchoudari" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/sunilkumarchoudari" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sunilkumarchoudari" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
 
 
 
