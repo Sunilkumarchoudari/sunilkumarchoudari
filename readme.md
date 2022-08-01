@@ -15,7 +15,7 @@
 
 <a href="https://medium.com/@sunilkumarchoudari" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/sunilkumarchoudari" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19458013/sunil-kumar-choudari" target="_blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="sunilkumarchoudari"/></a>
 
 
 
@@ -48,4 +48,3 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whi)
-![]
