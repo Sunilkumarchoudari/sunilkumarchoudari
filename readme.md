@@ -5,15 +5,15 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center" dir="center">
 
-<a href="http://infoskc.tech" target="_blank"> <img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="sunilkumarchoudari" height="30" width="40" /></a>
+<a href="http://infoskc.tech" target="_blank"> <img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="sunilkumarchoudari"/></a>
 
-<a href="https://codepen.io/sunilkumarchoudari" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sunilkumarchoudari" height="30" width="50" /></a>
+<a href="https://codepen.io/sunilkumarchoudari" target="_blank"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="sunilkumarchoudari"/></a>
 
-<a href="https://twitter.com/sunilkumarsuneo" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunilkumarsuneo" height="30" width="40" /></a>
+<a href="https://twitter.com/sunilkumarsuneo" target="_blank"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sunilkumarsuneo"/></a>
 
 <a href="https://linkedin.com/in/sunilkumarchoudari" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" alt="sunilkumarchoudari"/></a>
 
-<a href="https://medium.com/@sunilkumarchoudari" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sunilkumarchoudari" height="30" width="40" /></a>
+<a href="https://medium.com/@sunilkumarchoudari" target="_blank"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 <a href="https://stackoverflow.com/users/19458013/sunil-kumar-choudari" target="_blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="sunilkumarchoudari"/></a>
 
