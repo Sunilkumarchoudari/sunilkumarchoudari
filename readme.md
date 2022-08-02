@@ -21,7 +21,8 @@
 
 </div>
 <br>
-
+<h1 align="center">💻 Tech Stack:<h1>
+<p align="center>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -53,12 +54,10 @@
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+          </p>
 
 <br>
 <br>
-
-<h1 align="center">💻Stats:<h1>
-
 
 | <a href="https://github.com/sunilkumarchoudari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilkumarchoudari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sunilkumar's github stats" /></a> | <a href="https://github.com/sunilkumarchoudari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarchoudari&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
