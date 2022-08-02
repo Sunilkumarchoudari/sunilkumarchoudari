@@ -59,4 +59,4 @@
 <br>
 
 <h1 align="center">💻Stats:<h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username={sunilkumarchoudari}&theme=blue-green" alt="sunilkumarchoudari"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sunilkumarchoudari&theme=blue-green" alt="sunilkumarchoudari"/>
