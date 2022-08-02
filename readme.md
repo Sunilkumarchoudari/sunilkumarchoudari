@@ -59,5 +59,7 @@
 <br>
 
 <h1 align="center">💻Stats:<h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sunilkumarchoudari&theme=blue-green&layout=compact" alt="sunilkumarchoudari"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarchoudari&theme=blue-green&layout=compact" alt="sunilkumarchoudari"/>
+
+
+| <a href="https://github.com/sunilkumarchoudari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilkumarchoudari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sunilkumar's github stats" /></a> | <a href="https://github.com/sunilkumarchoudari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarchoudari&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
