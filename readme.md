@@ -6,7 +6,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center" dir="center">
 
-<a href="http://infoskc.tech" target="_blank"> <img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="sunilkumarchoudari"/></a>
+<a href="http://sunilkumarchoudari.com" target="_blank"> <img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="sunilkumarchoudari"/></a>
 
 <a href="https://codepen.io/sunilkumarchoudari" target="_blank"><img align="left" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="sunilkumarchoudari"/></a>
 
