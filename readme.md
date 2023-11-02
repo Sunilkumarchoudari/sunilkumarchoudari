@@ -60,5 +60,5 @@
 <br>
 <br>
 
-| <a href="https://github.com/sunilkumarchoudari"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilkumarchoudari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sunilkumar's github stats" /></a> | <a href="https://github.com/sunilkumarchoudari"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarchoudari&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sunilkumarchoudari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilkumarchoudari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sunil Kumar's github stats" /></a> | <a href="https://github.com/sunilkumarchoudari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarchoudari&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
