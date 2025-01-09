@@ -57,8 +57,6 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
-<br>
-<br>
 
-| <a href="https://github.com/sunilkumarchoudari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilkumarchoudari&show_icons=true&theme=transparent" alt="Sunil Kumar's github stats" /></a> | <a href="https://github.com/sunilkumarchoudari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarchoudari&layout=compact&theme=buefy&hide_border=true" /></a> |
+<br>
 | ------------- | ------------- |
