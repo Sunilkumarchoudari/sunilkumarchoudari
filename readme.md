@@ -56,7 +56,3 @@
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
-
-
-<br>
-| ------------- | ------------- |
