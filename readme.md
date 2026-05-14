@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, ich bin Sunil Kumar</h1>
-<h3 align="center">Freelancer, Cyber Security Enthusiast, Cyber Security Researcher, Full-Stack Developer & Technical Analyst, Content Writer</h3>
+<h3 align="center">Python Developer | AI/ML Engineer | Full-Stack Developer | Flutter | Next.js | Flask/FastAPI | React | PostgreSQL | MongoDB | AWS | GCP | Cybersecurity Enthusiast</h3>
 <br>
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=sunilkumarchoudari" alt="sunilkumarchoudari" /> </p>
 <br>
