@@ -1,5 +1,5 @@
 <h1 align="left">Hallo 👋, ich bin Sunil Kumar</h1>
-💼 Senior Software Engineer with 4.9+ years of experience in Backend, Full Stack, and Mobile Application Development.<br><br>
+💼 Senior Software Engineer with 5+ years of experience in Backend, Full Stack, and Mobile Application Development.<br><br>
   🚀 Specialized in Python, Flask, FastAPI, React, Flutter, Node.js, PostgreSQL, and MongoDB.<br><br>
   ☁️ Experienced in building scalable cloud-native applications on Google Cloud Platform (Cloud Run, BigQuery, Pub/Sub, Cloud Scheduler, Firestore) and AWS.<br><br>
   🔧 Passionate about designing secure REST APIs, data ingestion pipelines, third-party integrations, and high-performance backend systems. <br><br>
